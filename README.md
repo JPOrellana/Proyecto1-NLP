@@ -6,5 +6,6 @@
 **Procesamiento de Lenguaje Natural** 
 
 ## Alumnos
-- José Pablo Orellana - 21970
-- Diego Alberto Leiva - 21752
+- José Pablo Orellana       - 21970
+- Diego Alberto Leiva       - 21752
+- Renatto Esteban Guzmán	- 21646 
